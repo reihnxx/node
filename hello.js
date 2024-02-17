@@ -1,0 +1,1 @@
+console.log("Hallo Semua, ini contoh nodejs!");
